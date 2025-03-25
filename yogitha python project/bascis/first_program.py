@@ -11,3 +11,4 @@ print(num7)
 a=p=23
 print(p)
 print(num5*num7)
+print(num5+num7)
